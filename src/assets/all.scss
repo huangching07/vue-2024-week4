@@ -491,6 +491,13 @@ nav ul a span {
   top: 4px;
   right: 4px;
   padding: 10px;
+  cursor: pointer;
+}
+
+.noDataMsg {
+  color: #333333;
+  text-align: center;
+  padding: 10px 0;
 }
 
 .todoList_list {
@@ -610,4 +617,3 @@ nav ul a span {
   font-size: 0.875rem;
   text-decoration: none;
 }
-/*# sourceMappingURL=all.css.map */
